@@ -1,4 +1,4 @@
-/*package Inheritance;
+package Inheritance;
 //Multiple Inheritance
 class A{
 	void show() {
@@ -22,4 +22,4 @@ public static void main(String[] args) {
 	c.display();
 	c.print();
 }
-}*/
+}
